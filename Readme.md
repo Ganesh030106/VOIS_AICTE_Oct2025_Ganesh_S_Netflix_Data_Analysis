@@ -1,4 +1,4 @@
-# VOIS AICTE Oct2025 — Netflix Data Analysis
+#Netflix Data Analysis
 
 This repository contains an exploratory data analysis notebook for a Netflix dataset used in the VOIS AICTE Oct 2025 workshop by Ganesh S.
 
